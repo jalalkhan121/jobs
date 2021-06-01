@@ -1,0 +1,125 @@
+ 	
+
+
+AI:-
+
+Thursday, May 29,2014	No topic mention.	P
+16 	Thursday, May 22,2014	Expert system.	P
+15 	Thursday, May 15,2014	Rules of inference ,C N F.	P
+14 	Thursday, May 08,2014	K R.	P
+13 	Saturday, Apr 26,2014	Paper solution , G A.	A
+12 	Friday, Apr 25,2014	Google Sign up for our monthly newsletter and get the latest on your favorite browser. 	P
+11 	Thursday, Apr 17,2014	Genetic Algorithm.	P
+10 	Thursday, Apr 10,2014	Adversarial search.	P
+9 	Thursday, Apr 03,2014	A* Algorithm.	P
+8 	Thursday, Mar 27,2014	Branch and bound.	P
+7 	Thursday, Mar 20,2014	Informal Search,	P
+6 	Friday, Mar 14,2014	1st sessional exam.	P
+5 	Thursday, Mar 06,2014	DFS, BFS	P
+4 	Thursday, Feb 27,2014	Problems solving.	P
+3 	Thursday, Feb 20,2014	Problem Solving.	P
+2 	Thursday, Feb 13,2014	History, Rational Agent.	P
+1 	Thursday, Feb 06,2014	Introduction to AI and AI approaches.	P
+
+
+
+Compiler:-Sajjad
+ 	Wednesday, May 28,2014	Code optimization.	P
+29 	Monday, May 26,2014	Code generation.	P
+28 	Friday, May 23,2014	Storage Management.	P
+27 	Monday, May 19,2014	Directed a cyclic graph, construction of syntax tree, translation scheme. 	P
+26 	Wednesday, May 14,2014	Syntax directed Translation, synthesized and inherited Attributes etc. 	P
+25 	Monday, May 12,2014	LA LR Parsing ,etc.	P
+24 	Wednesday, May 07,2014	LR (1) parsing	P
+23 	Monday, May 05,2014	LR (1) parsing	P
+22 	Wednesday, Apr 30,2014	LR parsing.	P
+21 	Monday, Apr 28,2014	Operator precedence parsing.	P
+20 	Monday, Apr 21,2014	2nd sessional exam.	P
+19 	Friday, Apr 18,2014	Bottom up Parsing. 	P
+18 	Monday, Apr 14,2014	LL(1) grammar.	P
+17 	Friday, Apr 11,2014	Function over-riding public/ private inheritance, levels of inheritance.	P
+16 	Wednesday, Apr 09,2014	Predictive parsing compute first and follow set.	P
+15 	Monday, Apr 07,2014	Recursive descodont etc.	P
+14 	Wednesday, Apr 02,2014	Removing Left Recursion, Removing left factoring.	P
+13 	Monday, Mar 31,2014	Reduction on CFG, elimination ambiguity.	P
+12 	Wednesday, Mar 19,2014	Formal Language CFG	P
+11 	Monday, Mar 17,2014	Parser, role of parser, error, handling, furnal definition of grammar.	A
+10 	Monday, Mar 10,2014	1st sessional exam.	P
+9 	Wednesday, Mar 05,2014	Minimization + DFA states.	P
+8 	Monday, Mar 03,2014	Optimization of DFA, based patterns.	P
+7 	Wednesday, Feb 26,2014	NEA to DFA by using subset construction algorithm, pattern matching .	P
+6 	Monday, Feb 24,2014	Use of lex, lex program.	A
+5 	Tuesday, Feb 18,2014	Forward languages, regular expression finite Automata and NFA.	P
+4 	Monday, Feb 17,2014	IP Sub netting.	P
+3 	Wednesday, Feb 12,2014	Application of Compiler Technology.	P
+2 	Monday, Feb 10,2014	Pass, One Pass & Muti Pass Compiler.	P
+1 	Tuesday, Feb 04,2014	Introduction to Compiler, phases of Compiler.
+
+HCI:-Sajjad
+
+Lecture#	Date	Topics	Status
+30 	Wednesday, May 28,2014	Golden rules and Heuristics , Her patterns. 	P
+29 	Tuesday, May 27,2014	Robustness, Interactive system design standards.	P
+28 	Wednesday, May 21,2014	Design rules , principles to support usability.	P
+27 	Tuesday, May 20,2014	Design Rational ( process oriented , Design Analysis , psychological ) approach .	P
+26 	Wednesday, May 14,2014	Iterative design and prototyping throw away etc.	P
+25 	Tuesday, May 13,2014	Usability engineering.	P
+24 	Wednesday, May 07,2014	Iteration and prototyping software life cycle.	P
+23 	Tuesday, May 06,2014	Screen design and layout.	P
+22 	Wednesday, Apr 30,2014	Scenarios, navigation design.	P
+21 	Tuesday, Apr 29,2014	What is design and process of design.	P
+20 	Tuesday, Apr 22,2014	2nd sessional exam.	P
+19 	Wednesday, Apr 16,2014	Paradigms of interaction paper formate and discuss.	P
+18 	Tuesday, Apr 15,2014	Introduction paradigms.	P
+17 	Wednesday, Apr 09,2014	Paradigms of Introduction time sharing, programming etc.	P
+16 	Tuesday, Apr 08,2014	Interactivity, content of interaction, experiment and engagement. 	P
+15 	Wednesday, Apr 02,2014	Elements of winp interface.	P
+14 	Tuesday, Apr 01,2014	Interface styles, Command line Interface, menus, natural Language, Question/answer and query dialogy, spread sheet, wimp interface, 3 D interface.	P
+13 	Wednesday, Mar 19,2014	Basic Aspect of HCI: Iteration, common Introduction styles. etc.	P
+12 	Tuesday, Mar 18,2014	Display devices (Bitmap display cathode rays tube liquid crystel display) etc 	P
+11 	Tuesday, Mar 11,2014	1st sessional exam.	P
+10 	Friday, Mar 07,2014	Repeating course, Paper distribution is discussed.	P
+9 	Wednesday, Mar 05,2014	HCL Computer aspect. positining and drawing ,pointing devices.	P
+8 	Tuesday, Mar 04,2014	HCI computer aspects: Text entry devices.	P
+7 	Wednesday, Feb 26,2014	Designing principal, conceptual model, meutal model,	P
+6 	Tuesday, Feb 25,2014	Reasoning and problems solving: skills Acquisition, errors and meutal models.	P
+5 	Wednesday, Feb 19,2014	Knowledge provoking: Reasoning and problems solving.	P
+4 	Tuesday, Feb 18,2014	HCI Aspect: Touch system and memory.	P
+3 	Wednesday, Feb 12,2014	Computer aspects and Interaction aspects of HCI.	P
+2 	Tuesday, Feb 11,2014	Human computer interaction : Basics.	P
+1 	Tuesday, Feb 04,2014	Why Human computer interaction : Basics.
+
+MPL:-Sajjad
+31 	Friday, May 30,2014	Security of performance issues of e - commerce website 	A
+30 	Thursday, May 29,2014	E- commerce''s its types. 	P
+29 	Friday, May 23,2014	Database access method similarities.	P
+28 	Thursday, May 22,2014	Connection with database using ODBC.	A
+27 	Friday, May 16,2014	ODBC Introduction.	P
+26 	Thursday, May 15,2014	Cold fusion data base connectivity.	P
+25 	Friday, May 09,2014	Cold fusion syntax , variable , datatypes. 	P
+24 	Thursday, May 08,2014	Example Java program for JDBC connectivity with my SQL.	P
+23 	Saturday, Apr 26,2014	Introduction to J D B C, J B D C Architecture , J D B C Components.	P
+22 	Thursday, Apr 24,2014	2nd sessional exam.	P
+21 	Friday, Apr 18,2014	Advantages of serulets over C G T.	P
+20 	Thursday, Apr 17,2014	Java serulets Introduction.	P
+19 	Friday, Apr 11,2014	Database connectivity , insert , update , read operations.a	P
+18 	Thursday, Apr 10,2014	DBT modal introduction.	P
+17 	Friday, Apr 04,2014	Open, sysopen, clase, permission modes.	P
+16 	Thursday, Apr 03,2014	Perl life handling.	P
+15 	Monday, Mar 31,2014	Creating and using custom modules.	P
+14 	Monday, Mar 24,2014	Subroutine introduction to modulus. 	P
+13 	Friday, Mar 21,2014	Hashes and their manipulation.	A
+12 	Thursday, Mar 20,2014	Perl loops.	P
+11 	Thursday, Mar 13,2014	1st sessional exam.	P
+10 	Friday, Mar 07,2014	Perl Arrays.	P
+9 	Thursday, Mar 06,2014	Perl syntax, scalars (variables), numeric string operators.	P
+8 	Friday, Feb 28,2014	CGI Basics, RFL 3875, CGI VI.1	P
+7 	Thursday, Feb 27,2014	HTTP Role: HTTP Request and its parts HTTP Response and its parts, classes of error codes.	P
+6 	Friday, Feb 21,2014	ColdFusion and seruelets introduction as well back end languages + quiz one.	P
+5 	Thursday, Feb 20,2014	Web based back end development : Perl language Introduction.	P
+4 	Friday, Feb 14,2014	Triggers, the need and usage, syntax example before update trigger.	P
+3 	Thursday, Feb 13,2014	Database back end; store procedures in my SQL etc.	P
+2 	Friday, Feb 07,2014	Application back end development, web back end development.	P
+1 	Thursday, Feb 06,2014	Introduction to software development etc. 
+
+

@@ -1,0 +1,44 @@
+@charset "UTF-8";
+
+
+.textareaRequiredMsg,
+.textareaMinCharsMsg,
+.textareaMaxCharsMsg,
+.textareaValidMsg {
+	display:none;
+}
+
+
+.textareaRequiredState .textareaRequiredMsg,
+.textareaMinCharsState .textareaMinCharsMsg,
+.textareaMaxCharsState .textareaMaxCharsMsg
+{
+	display: inline;
+	color: #CC3333;
+	border: 0px solid #CC3333;
+}
+
+
+.textareaValidState textarea, textarea.textareaValidState {
+	background-color:#B8F5B1;
+}
+
+/* When the widget is in an invalid state the TEXTAREA has a red background applied on it. */
+textarea.textareaRequiredState, .textareaRequiredState textarea, 
+textarea.textareaMinCharsState, .textareaMinCharsState textarea, 
+textarea.textareaMaxCharsState, .textareaMaxCharsState textarea {
+	background-color:#FF9F9F;
+}
+
+/* When the widget has received focus, the TEXTAREA has a yellow background applied on it. */
+.textareaFocusState textarea, textarea.textareaFocusState {
+	background-color:#FFFFCC;
+}
+
+/* This class applies only for a short period of time and changes the way the text in the textarea looks like.
+ * It applies only when the widget has enforce max chars enabled and the user tries to type some more.
+ */
+.textareaFlashState textarea, textarea.textareaFlashState{
+	color:red !important;
+}
+

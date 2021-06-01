@@ -1,0 +1,16 @@
+img_brose_code:-
+
+ OpenFileDialog ofd = new OpenFileDialog();
+            ofd.Filter = " image files|*.jpg;*.png;*.gif";
+          DialogResult  dr = ofd.ShowDialog();
+            if (dr == DialogResult.Cancel)
+                return;
+
+            pictureBox1.Image = Image.FromFile(ofd.FileName);
+
+insert into database:-
+MemoryStream ms = new MemoryStream();
+                    pictureBox1.Image.Save(ms, System.Drawing.Imaging.ImageFormat.Jpeg);
+                    byte[] pic_arr = new byte[ms.Length];
+                    ms.Position = 0;
+                    ms.Read(pic_arr, 0, pic_arr.Length);
